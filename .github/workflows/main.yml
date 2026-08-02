@@ -1,4 +1,4 @@
-name: rpd
+name: RPD
 
   workflow_dispatch:
 
